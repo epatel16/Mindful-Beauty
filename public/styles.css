@@ -1,0 +1,264 @@
+/*
+Name: Eshani Patel
+CS 132 Spring 2023
+Date: April 15th, 2023
+This is the styles.css page for my clean beauty ecommerce website. 
+It is used by all pages to give the site a consistent look and feel.
+*/
+
+body,
+textarea,
+a,
+button {
+  font-family: "Playfair Display", serif;
+}
+
+body,
+#top-bar,
+#item-container,
+.btn-container,
+#review-container,
+#cart-container,
+.cart-item,
+#faq-container,
+.single {
+  display: flex;
+}
+
+body {
+  height: 100vh;
+}
+
+body,
+#review-container,
+#cart-container,
+#faq-container {
+  flex-direction: column;
+}
+
+body,
+h1,
+h2,
+ul,
+.dropdown .dropbtn {
+  margin: 0;
+}
+
+h1,
+h2,
+.question {
+  font-weight: 600;
+  font-style: italic;
+}
+
+h2,
+#top-bar {
+  font-size: 14pt;
+  font-weight: 400;
+}
+
+body,
+a,
+h2,
+textarea,
+button,
+.dropdown-content a {
+  color: #2f4b5b;
+}
+
+header,
+footer,
+.navbar a:hover,
+.dropdown:hover .dropbtn,
+.dropdown-content a:hover,
+button:hover {
+  background-color: #ffc3a5;
+}
+
+h2,
+a,
+button {
+  background-color: #80bdb5;
+}
+
+h2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+footer,
+h2,
+.single,
+.card {
+  text-align: center;
+}
+
+#top-bar {
+  position: sticky;
+  top: 0;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  margin-left: 20px;
+}
+
+main {
+  background-color: rgb(235, 255, 251);
+  flex-grow: 1;
+}
+
+#item-container {
+  flex-wrap: wrap;
+}
+
+.btn-container,
+#review-container,
+#item-container,
+.card,
+.single {
+  padding: 20px;
+}
+
+#review-container,
+.cart-item,
+#item-container,
+#faq-container {
+  justify-content: space-evenly;
+}
+
+#review-container,
+.single {
+  height: 500px;
+}
+
+#cart-container,
+.btn-container,
+#top-bar {
+  justify-content: space-between;
+}
+
+#review-container,
+#cart-container,
+#top-bar,
+.cart-item,
+#faq-container,
+.single {
+  align-items: center;
+}
+
+.cart-item {
+  flex-direction: row;
+  width: 90%;
+  height: 220px;
+}
+
+.cart-item div {
+  width: 40%;
+}
+
+#faq-container {
+  width: 97%;
+  font-size: 16pt;
+}
+
+#faq-container,
+.card,
+.cart-item {
+  margin: 20px;
+}
+
+textarea {
+  width: 600px;
+  height: 300px;
+  font-size: 12pt;
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+}
+
+.card,
+.single,
+.cart-item {
+  background-color: white;
+}
+
+.single {
+  justify-content: space-around;
+}
+
+.single > div {
+  width: 50%;
+}
+
+article img {
+  height: 180px;
+}
+
+#main-img,
+.single,
+#review-container {
+  width: 100%;
+}
+
+a,
+button,
+.cart-item {
+  border: 2px solid #2f4b5b;
+}
+
+a,
+button {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+a,
+button,
+.dropdown-content a {
+  text-decoration: none;
+}
+
+.hidden,
+.dropdown-content {
+  display: none;
+}
+
+button {
+  font-size: 16px;
+}
+
+.dropdown {
+  float: left;
+}
+
+.dropdown-content {
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  padding: 5px 5px;
+}
+
+.dropdown-content a,
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+#footer-link {
+  border: none;
+  background-color: #ffc3a5;
+  padding: 0;
+  text-decoration: underline;
+}

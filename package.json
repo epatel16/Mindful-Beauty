@@ -1,0 +1,14 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "ecommerce-api",
+  "main": "website.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eshani Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

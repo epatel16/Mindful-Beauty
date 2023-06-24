@@ -1,0 +1,225 @@
+{
+  "product1": {
+    "brandName": "Tatcha",
+    "itemName": "The Water Cream Oil-Free Pore Minimizing Moisturizer",
+    "price": 70.00,
+    "salePrice": 70.00,
+    "id": "moisturizer",
+    "image": {
+      "src": "img/moisturizer.png",
+      "alt": "moisturizer photo"
+    },
+    "description": "An oil-free, anti-aging water cream that releases a burst of skin-improving Japanese nutrients, powerful botanicals, and optimal",
+    "filters": ["skincare"]
+  },
+
+  "product2": {
+    "brandName": "Tower 28 Beauty",
+    "itemName": "ShineOn Lip Jelly Non-Sticky Gloss",
+    "price": 16.00,
+    "salePrice": 12.00,
+    "id": "lipgloss",
+    "image": {
+      "src": "img/lipgloss.png",
+      "alt": "lipgloss photo"
+    },
+    "description": "A bestselling, non-sticky, moisturizing gloss for soft, shiny lips",
+    "filters": ["sale", "makeup", "lips"]
+  },
+
+  "product3": {
+    "brandName": "Youth To The People",
+    "itemName": "Superfood Antioxidant Refillable Cleanser",
+    "price": 39.00,
+    "salePrice": 39.00,
+    "id": "cleanser",
+    "image": {
+      "src": "img/cleanser.png",
+      "alt": "cleanser photo"
+    },
+    "description": "An award-winning face wash with superfood extracts to remove makeup, support skin's pH balance, and clear buildup in pores that can lead to blemishes.",
+    "filters": ["skincare"]
+  },
+
+  "product4": {
+    "brandName": "ILIA",
+    "itemName": "Super Serum Skin Tint SPF 40 Foundation",
+    "price": 48.00,
+    "salePrice": 36.00,
+    "id": "foundation",
+    "image": {
+      "src": "img/foundation.png",
+      "alt": "foundation photo"
+    },
+    "description": "An award-winning tinted serum with light, dewy coverage, mineral SPF, and potent levels of skincare ingredients.",
+    "filters": ["sale", "makeup", "face"]
+  },
+
+  "product5": {
+    "brandName": "Summer Fridays",
+    "itemName": "Lip Butter Balm",
+    "price": 24.00,
+    "salePrice": 24.00,
+    "id": "lipbalm",
+    "image": {
+      "src": "img/lipbalm.png",
+      "alt": "lipbalm photo"
+    },
+    "description": "A silky vegan balm that hydrates and soothes parched lips in seconds.",
+    "filters": ["makeup", "lips"]
+  },
+
+  "product6": {
+    "brandName": "Glow Recipe",
+    "itemName": "Watermelon Glow Niacinamide Dew Drops Serum",
+    "price": 35.00,
+    "salePrice": 35.00,
+    "id": "serum",
+    "image": {
+      "src": "img/serum.png",
+      "alt": "serum photo"
+    },
+    "description": "A breakthrough, multi-use highlighting serum that hydrates and visibly reduces the look of hyperpigmentation for a dewy, reflective glow—without mica, glitter, or gray cast.",
+    "filters": ["skincare"]
+  },
+
+  "product7": {
+    "brandName": "MERIT",
+    "itemName": "Bronze Balm Sheer Sculpting Bronzer",
+    "price": 30.00,
+    "salePrice": 30.00,
+    "id": "bronzer",
+    "image": {
+      "src": "img/bronzer.png",
+      "alt": "bronzer photo"
+    },
+    "description": "A sheer, buildable bronzer to add a wash of natural-looking warmth and depth.",
+    "filters": ["makeup", "face"]
+  },
+
+  "product8": {
+    "brandName": "Supergoop!",
+    "itemName": "100% Mineral Sheerscreen Sunscreen SPF 30",
+    "price": 38.00,
+    "salePrice": 38.00,
+    "id": "sunscreen",
+    "image": {
+      "src": "img/sunscreen.png",
+      "alt": "sunscreen photo"
+    },
+    "description": "A totally sheer, weightless, 100 percent–mineral daily sunscreen lotion that provides SPF 30 protection and shields skin from blue light.",
+    "filters": ["skincare"]
+  },
+
+  "product9": {
+    "brandName": "Kosas",
+    "itemName": "Revealer Super Creamy + Brightening Concealer and Daytime Eye Cream",
+    "price": 30.00,
+    "salePrice": 30.00,
+    "id": "concealer",
+    "image": {
+      "src": "img/concealer.png",
+      "alt": "concealer photo"
+    },
+    "description": "A crease-proof, medium-coverage, super creamy concealer, eye cream, and spot treatment in one that visibly brightens and helps reveal better-looking skin.",
+    "filters": ["makeup", "face"]
+  },
+
+  "product10": {
+    "brandName": "MILK MAKEUP",
+    "itemName": "Hydro Grip Hydrating Makeup Primer",
+    "price": 38.00,
+    "salePrice": 38.00,
+    "id": "primer",
+    "image": {
+      "src": "img/primer.png",
+      "alt": "primer photo"
+    },
+    "description": "A clean, silicone-free dewy makeup primer with hyaluronic acid that grips makeup for up to 12 hours and hydrates skin to prevent meltdown and caking.",
+    "filters": ["makeup", "face"]
+  },
+
+  "product11": {
+    "brandName": "Saie",
+    "itemName": "Dew Blush Liquid Cheek Blush",
+    "price": 25.00,
+    "salePrice": 20.00,
+    "id": "blush",
+    "image": {
+      "src": "img/blush.png",
+      "alt": "blush photo"
+    },
+    "description": "A hydrating gel blush with a creamy, blendable formula that gives skin a healthy flush of seamless color.",
+    "filters": ["sale", "makeup", "face"]
+  },
+
+  "product12": {
+    "brandName": "Kosas",
+    "itemName": "Air Brow Clear + Clean Lifting Treatment Eyebrow Gel with Lamination Effect",
+    "price": 24.00,
+    "salePrice": 24.00,
+    "id": "browgel",
+    "image": {
+      "src": "img/browgel.png",
+      "alt": "browgel photo"
+    },
+    "description": "A clean, clear brow gel boosted by hair care actives that fluffs, lifts, and sets brows in place while helping them reach their full growth potential.",
+    "filters": ["makeup", "eyes"]
+  },
+
+  "product13": {
+    "brandName": "Kulfi",
+    "itemName": "Zari Eyes Long-Lasting Crease-Proof Cream Eyeshadow",
+    "price": 30.00,
+    "salePrice": 30.00,
+    "id": "creamshadow",
+    "image": {
+      "src": "img/creamshadow.png",
+      "alt": "creamshadow photo"
+    },
+    "description": "A highly pigmented and long-lasting cream-to-powder eyeshadow with a crease-proof formula that won't budge.",
+    "filters": ["makeup", "eyes"]
+  },
+
+  "product14": {
+    "brandName": "LAWLESS",
+    "itemName": "Mini The Glam One Talc-Free Eyeshadow Palette",
+    "price": 25.00,
+    "salePrice": 20.00,
+    "id": "eyeshadow",
+    "image": {
+      "src": "img/eyeshadow.png",
+      "alt": "eyeshadow photo"
+    },
+    "description": "A talc and silicone-free mini eyeshadow palette with two ultra-reflective metallic shades and six rich, buttery mattes.",
+    "filters": ["sale", "makeup", "eyes"]
+  },
+
+  "product15": {
+    "brandName": "tarte",
+    "itemName": "SEA Surfer Curl™ Volumizing Mascara",
+    "price": 24.00,
+    "salePrice": 12.00,
+    "id": "mascara",
+    "image": {
+      "src": "img/mascara.png",
+      "alt": "mascara photo"
+    },
+    "description": "An effortless, lash-lifting lifestyle mascara that delivers sweatproof, weightless volume to clean up your lash game.",
+    "filters": ["sale", "makeup", "eyes"]
+  },
+
+  "product16": {
+    "brandName": "Westman Atelier",
+    "itemName": "Eye Love You Clean Kôhl Eyeliner Pencil",
+    "price": 34.00,
+    "salePrice": 17.00,
+    "id": "eyeliner",
+    "image": {
+      "src": "img/eyeliner.png",
+      "alt": "eyeliner photo"
+    },
+    "description": "An ultra-clean kôhl eye formula with intense pigments that effortlessly lines, defines, and blends.",
+    "filters": ["sale", "makeup", "eyes"]
+  }
+}

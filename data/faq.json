@@ -1,0 +1,32 @@
+{
+    "question1": {   
+        "question": "What is clean beauty?",
+        "answer": "Clean beauty refers to skincare, makeup, and personal care products that are formulated with safe and non-toxic ingredients. These products are free from harmful chemicals, such as parabens, sulfates, phthalates, and synthetic fragrances."
+    },
+    
+    "question2": {
+        "question": "Why should I choose clean beauty products?",
+        "answer": "Clean beauty products prioritize your health and well-being. By using clean beauty products, you can avoid potentially harmful ingredients that may cause skin irritations, allergies, or disrupt hormonal balance. Clean beauty also promotes sustainability and environmental consciousness by using natural, eco-friendly ingredients and sustainable packaging."
+    },
+
+    "question3": {
+        "question": "Are clean beauty products effective?",
+        "answer": "Yes, clean beauty products can be just as effective as conventional products, if not more. Many clean beauty brands use high-quality botanical extracts, nourishing oils, and potent antioxidants that provide excellent skincare benefits. These products can effectively hydrate, protect, and rejuvenate your skin without compromising your health."
+    },
+
+    "question4": {
+        "question": "Are clean beauty products suitable for all skin types?",
+        "answer": "Absolutely! Clean beauty products are formulated to be suitable for a wide range of skin types, including sensitive, dry, oily, and combination skin. You can find clean beauty options tailored to address specific skin concerns, such as acne, aging, or hyperpigmentation."
+    },
+
+    "question5": {
+        "question": "How can I identify clean beauty products?",
+        "answer": "Look for labels or certifications such as 'Clean Beauty,' 'Natural,' 'Organic,' or 'Cruelty-free.' Read the ingredient lists and avoid products containing harmful chemicals like parabens, sulfates, phthalates, mineral oils, and synthetic fragrances. Many clean beauty brands also provide transparency by explaining their ingredient sourcing and manufacturing processes."
+    },
+
+    "questio6": {
+        "question": "Are clean beauty products cruelty-free?",
+        "answer": "Many clean beauty brands are committed to cruelty-free practices, meaning they do not test their products on animals. Look for certifications like Leaping Bunny or PETA's cruelty-free logo to ensure the brand you choose is cruelty-free. Additionally, some brands may also be vegan, meaning their products do not contain any animal-derived ingredients."
+    }
+
+}

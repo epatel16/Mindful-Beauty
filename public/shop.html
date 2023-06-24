@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--
+  Author: Eshani Patel
+  CS 132 Spring 2023
+  This is the shop.html page for my clean beauty ecommerce website. 
+-->
+<html lang="en">
+  <head>
+    <title>Mindful Beauty</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400;1,600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="utils.js"></script>
+    <script defer src="shop.js"></script>
+    <link href="styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header id="top-bar">
+      <h1>Mindful Beauty</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">Shop</a></li>
+          <li><a href="cart.html">Cart</a></li>
+          <li><a href="review.html">Review</a></li>
+          <li><a href="faq.html">FAQs</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>here to empower your conscious and ethical beauty choices</h2>
+        <section id="all-section">
+          <div class="btn-container">
+            <div class="dropdown">
+              <button class="dropbtn">
+                Filter
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <a id="all" href="#">All</a>
+                <a id="skincare" href="#">Skincare</a>
+                <a id="makeup" href="#">Makeup</a>
+                <a id="eyes" href="#">Eyes</a>
+                <a id="lips" href="#">Lips</a>
+                <a id="face" href="#">Face</a>
+              </div>
+            </div>
+            <div class="button" id="sale">
+              <button id="sale-btn">Shop Sale!</button>
+            </div>
+          </div>
+          <div id="item-container"></div>
+        </section>
+        <section id="individual" class="hidden">
+          <div class="btn-container">
+            <button id="shop-btn">Return to Shop</button>
+          </div>
+          <div id="single-container"></div>
+        </section>
+      </section>
+    </main>
+    <footer>
+      <p>
+        Images from  
+        <a href="https://www.sephora.com/" id="footer-link" target="_blank">Sephora</a>
+      </p>
+    </footer>
+  </body>
+</html>
